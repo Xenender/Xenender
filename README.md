@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.Xenender.GeometryRunner&gl=FR">**Geometry Runner app**</a>
 
-- 🌱 I’m currently learning **Unity, Mobile development, Ethical hacking**
+- 🌱 I’m currently learning **Unity, FLutter, Mobile development, Ethical hacking**
 
 - 👨‍💻 Ethical Hacking Training on <a href="https://www.root-me.org/Xenender">**Root Me**</a>
 
